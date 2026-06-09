@@ -14,3 +14,4 @@
 | [Lanqiao](./Lanqiao) | XJTU 蓝桥杯 C/C++ 赛道 校赛                                  |
 | [Luogu](./Luogu)     | [洛谷 官方题单](https://www.luogu.com.cn/training/list)      |
 | [mati](./mati)       | [码蹄杯全国大学生程序设计大赛](https://www.matiji.net/exam/contest/topic2026) |
+| [Vjudge](./Vjudge/)  | 西北多校算法竞赛联合训练 |
